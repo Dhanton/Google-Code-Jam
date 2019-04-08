@@ -1,0 +1,1 @@
+Originally I didn't read the instructions carefully enough. Because of this my implementation of problems 1 and 3 is incorrect when working with big numbers (~10^100). I've included the updated solutions, although I coded them after the contest.
